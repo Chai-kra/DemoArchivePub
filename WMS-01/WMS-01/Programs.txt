@@ -1,0 +1,4 @@
+REI	Enterprise Information Systems
+RIS	Information Security
+RIT	Internet Technology
+RSD	Software Systems Development
